@@ -1,2 +1,2 @@
 # MakingVectorClass-inC++-
-MakingVectorClass(LanguageinC++)
+MakingVectorClass(LanguageInC++)
